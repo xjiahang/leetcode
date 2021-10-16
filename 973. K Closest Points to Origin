@@ -1,3 +1,5 @@
+    https://leetcode.com/problems/k-closest-points-to-origin
+    
     public int[][] kClosest(int[][] points, int k) {
         int[][] res = new int[k][2];
         PriorityQueue<int[]> maxPQ = new 
